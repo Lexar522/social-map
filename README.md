@@ -132,11 +132,11 @@ social-map/
 
 MIT
 
-## 👤 Автор
+## 👤 Автор Lexar_ko
 
-Ваше ім'я - [GitHub](https://github.com/your-username) | [Instagram](https://instagram.com/your-username)
+Ваше ім'я - [GitHub](https://github.com/Lexar522) | [Instagram]([https://instagram.com/your-username](https://www.instagram.com/lexar_ko?igsh=MXFpM2dpYmFoOGl6Mg%3D%3D&utm_source=qr))
 
 ---
 
-Зроблено з ❤️ використовуючи React та Node.js
+Зроблено з використовуючи React та Node.js
 
